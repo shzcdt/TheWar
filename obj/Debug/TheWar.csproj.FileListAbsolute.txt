@@ -1,0 +1,6 @@
+C:\Users\Shzcdt\RiderProjects\ConsoleApp1\TheWar\bin\Debug\TheWar.exe
+C:\Users\Shzcdt\RiderProjects\ConsoleApp1\TheWar\bin\Debug\TheWar.pdb
+C:\Users\Shzcdt\RiderProjects\ConsoleApp1\TheWar\obj\Debug\TheWar.csproj.AssemblyReference.cache
+C:\Users\Shzcdt\RiderProjects\ConsoleApp1\TheWar\obj\Debug\TheWar.csproj.CoreCompileInputs.cache
+C:\Users\Shzcdt\RiderProjects\ConsoleApp1\TheWar\obj\Debug\TheWar.exe
+C:\Users\Shzcdt\RiderProjects\ConsoleApp1\TheWar\obj\Debug\TheWar.pdb
